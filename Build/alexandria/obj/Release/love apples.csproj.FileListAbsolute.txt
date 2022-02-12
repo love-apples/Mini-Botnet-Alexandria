@@ -1,0 +1,14 @@
+C:\Users\loveapples\source\repos\love apples\love apples\bin\Release\love apples.exe.config
+C:\Users\loveapples\source\repos\love apples\love apples\bin\Release\love apples.exe
+C:\Users\loveapples\source\repos\love apples\love apples\bin\Release\love apples.pdb
+C:\Users\loveapples\source\repos\love apples\love apples\obj\Release\love apples.csproj.AssemblyReference.cache
+C:\Users\loveapples\source\repos\love apples\love apples\obj\Release\love apples.csproj.SuggestedBindingRedirects.cache
+C:\Users\loveapples\source\repos\love apples\love apples\obj\Release\love apples.csproj.CoreCompileInputs.cache
+C:\Users\loveapples\source\repos\love apples\love apples\obj\Release\love apples.exe
+C:\Users\loveapples\source\repos\love apples\love apples\obj\Release\love apples.pdb
+C:\Users\loveapples\source\repos\love apples\love apples\bin\Release\Leaf.xNet.xml
+C:\Users\loveapples\source\repos\love apples\love apples\obj\Release\love apples.csproj.CopyComplete
+C:\Users\loveapples\source\repos\love apples\love apples\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\loveapples\source\repos\love apples\love apples\obj\Release\love apples.csproj.Fody.CopyLocal.cache
+C:\Users\loveapples\source\repos\love apples\love apples\bin\Release\System.CodeDom.xml
+C:\Users\loveapples\source\repos\love apples\love apples\bin\Release\System.Drawing.Common.xml

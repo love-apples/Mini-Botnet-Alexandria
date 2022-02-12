@@ -1,0 +1,14 @@
+C:\Users\loveapples\source\repos\love apples\alexandria\bin\Release\alexandria.exe.config
+C:\Users\loveapples\source\repos\love apples\alexandria\bin\Release\alexandria.exe
+C:\Users\loveapples\source\repos\love apples\alexandria\bin\Release\alexandria.pdb
+C:\Users\loveapples\source\repos\love apples\alexandria\bin\Release\Leaf.xNet.xml
+C:\Users\loveapples\source\repos\love apples\alexandria\bin\Release\System.CodeDom.xml
+C:\Users\loveapples\source\repos\love apples\alexandria\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\loveapples\source\repos\love apples\alexandria\bin\Release\System.Drawing.Common.xml
+C:\Users\loveapples\source\repos\love apples\alexandria\obj\Release\alexandria.csproj.AssemblyReference.cache
+C:\Users\loveapples\source\repos\love apples\alexandria\obj\Release\alexandria.csproj.SuggestedBindingRedirects.cache
+C:\Users\loveapples\source\repos\love apples\alexandria\obj\Release\alexandria.csproj.CoreCompileInputs.cache
+C:\Users\loveapples\source\repos\love apples\alexandria\obj\Release\alexandria.csproj.Fody.CopyLocal.cache
+C:\Users\loveapples\source\repos\love apples\alexandria\obj\Release\alexandria.csproj.CopyComplete
+C:\Users\loveapples\source\repos\love apples\alexandria\obj\Release\alexandria.exe
+C:\Users\loveapples\source\repos\love apples\alexandria\obj\Release\alexandria.pdb

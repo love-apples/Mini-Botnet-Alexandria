@@ -1,0 +1,6 @@
+System.ComponentModel.Win32Exception (0x80004005): Не удается найти указанный файл
+   в System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   в System.Diagnostics.Process.Start()
+   в System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   в love_apples.Program.GetCommands()
+   в love_apples.Program.Main()
